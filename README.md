@@ -5,3 +5,4 @@ This is a small project that was designed to keep track of time spent doing work
 
 Furthermore, there is a visual representation of the amount of points as particles moving about in the UI,
 where red particles represent a 100 minutes and white particles represent 1 minute.
+![](https://github.com/Arcane34/Time-Tracker-program/blob/main/preview.gif)
